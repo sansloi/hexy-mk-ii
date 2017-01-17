@@ -1,0 +1,21 @@
+terminator notes
+ctrl-shift-o: split screen horizontally
+ctrl-shift-p: focus on previous view
+ctrl-shift-n: focus on next view
+ctrl-shift-w: close the view where the focus is on
+ctrl-shift-q: exit terminator
+ctrl-shift-x: enlarge the active window
+
+hide/show scroll bar A: ctrl-shift-s
+search for a keyword- ctrl+shift+f
+move to the above terminal - alt+up_arrow_key
+
+increase front size: ctrl+(+)
+decrease font size: ctrl+()
+reset terminal size: ctrl+shift+r
+
+group all terminal into one: super+g
+remove all the terminal grouping: super+shift+t
+
+note: super is a key with the 'logo' on the left CTRL side
+
