@@ -15,7 +15,7 @@ git clone https://github.com/sansloi/hexy-mk-ii.git
 ```
 
 ### Software Requirements
-In order to order to run the softwhere here you'll need the following installed
+In order to run the software here you'll need the following installed
 
 #### ROS - [http://www.ros.org/]
 #### Gazebo - [http://gazebosim.org/]
